@@ -230,29 +230,13 @@ To use your own EPI data, prepare:
 
 3. Save as HDF5 files following the format in `data/GM12878/processed/`
 
-## Expected Performance
-
-| Metric | GM12878 |
-|--------|---------|
-| ROC-AUC | 0.88-0.92 |
-| PR-AUC | 0.78-0.85 |
-
 ## Citation
 
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{metricepi2024,
-  title={MetricEPI: Distance-Aware Deep Learning for Enhancer-Promoter Interaction Prediction},
-  author={Your Name et al.},
-  journal={Your Journal},
-  year={2024}
-}
+~ to do
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
