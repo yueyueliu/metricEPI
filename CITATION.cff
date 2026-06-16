@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MetricEPI"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX  # Replace with actual DOI
+date-released: 2024-01-01
+url: "https://github.com/your-username/MetricEPI"
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+    orcid: https://orcid.org/XXXX-XXXX-XXXX-XXXX
+license: MIT
+keywords:
+  - deep learning
+  - enhancer-promoter interaction
+  - genomics
+  - transformer
+  - contrastive learning
+abstract: |
+  MetricEPI is a distance-aware deep learning model for predicting
+  enhancer-promoter interactions (EPIs) using multi-scale genomic features.
+  The model incorporates genomic distance directly into the attention mechanism
+  and uses contrastive learning for better representation learning.
