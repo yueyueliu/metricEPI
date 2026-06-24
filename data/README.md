@@ -59,13 +59,14 @@ Each HDF5 shard contains:
 ### Features (10 channels)
 
 | Index | Feature | Description |
-|-------|---------|-------------|
-| 0 | CTCF | CTCF ChIP-seq signal |
-| 1 | DNase | DNase I hypersensitivity |
-| 2 | H3K27ac | H3K27ac ChIP-seq signal |
-| 3 | H3K4me1 | H3K4me1 ChIP-seq signal |
-| 4 | H3K4me3 | H3K4me3 ChIP-seq signal |
-| 5 | phastCons | Evolutionary conservation |
+|:------|---------|-------------|
+| 0-3   | DNA       | DNA sequence              |
+| 4     | CTCF      | CTCF ChIP-seq signal      |
+| 5     | DNase     | DNase I hypersensitivity  |
+| 6     | H3K27ac   | H3K27ac ChIP-seq signal   |
+| 7     | H3K4me1   | H3K4me1 ChIP-seq signal   |
+| 8     | H3K4me3   | H3K4me3 ChIP-seq signal   |
+| 9     | phastCons | Evolutionary conservation |
 
 ### Normalization
 
